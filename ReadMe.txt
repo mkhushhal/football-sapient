@@ -9,5 +9,7 @@ Sample output-
 "Overall League Position": "2"
 }
 
-1. Unable to get docker work on machine its windows server 2016. Tried to install docker through powershell but not able to run docker build as images are not available for windows container.
-So  Sending jar over email as its already late for today. If passing this test requires to successfully host application using docker image, i can try tomorrow to transfer source to ec2 and install docker there.
+Dockerfile is part of codebase.
+
+1. Unable to get docker work on machine docker not available for windows server 2016. Tried to install docker through powershell but not able to run docker build as images are not available for windows container.
+So uploading jar as part of codebase.
